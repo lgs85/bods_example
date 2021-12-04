@@ -1,0 +1,545 @@
+[
+  {
+    "addresses": [
+      {
+        "address": "Ռոուդ Թաուն, Թորթոլա, Ռոուդ Թաուն, Փալմ Գրով Հաուս, ՊՕ Բոկս , 438", 
+        "country": "VG", 
+        "postCode": "VG 1110", 
+        "type": "registered"
+      }
+    ], 
+    "alternateNames": [
+      "CHAARAT GOLD HOLDINGS Ltd"
+    ], 
+    "entityType": "registeredEntity", 
+    "identifiers": [
+      {
+        "id": "", 
+        "scheme": "VGB-TAXID"
+      }
+    ], 
+    "isComponent": false, 
+    "name": "ՉԱԱՐԱԹ ԳՈԼԴ ՀՈԼԴԻՆԳՍ ՍՊԸ", 
+    "publicationDetails": {
+      "bodsVersion": "0.2", 
+      "publicationDate": "2021-02-19", 
+      "publisher": {
+        "name": "---"
+      }
+    }, 
+    "statementDate": "2021-02-19", 
+    "statementID": "fb8146f2-b11c-43f1-9c84-4656165197e3", 
+    "statementType": "entityStatement"
+  }, 
+  {
+    "addresses": [
+      {
+        "address": "Նիկոսիա , Նիկոսիա , Նիկոսիա , Թեմիսթոքլի Դարվի, Ջուլիա Հաուս, 3", 
+        "country": "CY", 
+        "postCode": "1066", 
+        "type": "registered"
+      }
+    ], 
+    "alternateNames": [
+      "CHAARAT GOLD INTERNATIONAL LIMITED"
+    ], 
+    "entityType": "registeredEntity", 
+    "identifiers": [
+      {
+        "id": "", 
+        "scheme": "CYP-TAXID"
+      }
+    ], 
+    "isComponent": false, 
+    "name": "ՉԱԱՐԱԹ ԳՈԼԴ ԻՆԹԵՐՆԵՅՇՆԼ ԼԻՄԻԹԵԴ", 
+    "publicationDetails": {
+      "bodsVersion": "0.2", 
+      "publicationDate": "2021-02-19", 
+      "publisher": {
+        "name": "---"
+      }
+    }, 
+    "statementDate": "2021-02-19", 
+    "statementID": "a5ffe650-e185-4f66-9e6b-730827a349b2", 
+    "statementType": "entityStatement"
+  }, 
+  {
+    "addresses": [
+      {
+        "address": "Համիլթոն , Համիլթոն , Համիլթոն , Ուեսսեքս Հաուս, Ռեյդ Սթրիթ, 2-րդ հարկ, 45", 
+        "country": "BM", 
+        "postCode": "HM12", 
+        "type": "registered"
+      }
+    ], 
+    "alternateNames": [
+      "Labro Investments Limited"
+    ], 
+    "entityType": "registeredEntity", 
+    "identifiers": [
+      {
+        "id": "", 
+        "scheme": "BMU-TAXID"
+      }
+    ], 
+    "isComponent": false, 
+    "name": "Լաբրո Ինվեսթմենթս Լիմիթիդ", 
+    "publicationDetails": {
+      "bodsVersion": "0.2", 
+      "publicationDate": "2021-02-19", 
+      "publisher": {
+        "name": "---"
+      }
+    }, 
+    "statementDate": "2021-02-19", 
+    "statementID": "aa64f99b-ad44-4d52-bb94-22a3177885e6", 
+    "statementType": "entityStatement"
+  }, 
+  {
+    "addresses": [
+      {
+        "address": "ՍՅՈՒՆԻՔ, ԿԱՊԱՆ, ԿԱՊԱՆ, ԳՈՐԾԱՐԱՆԱՅԻՆ, 4", 
+        "country": "AM", 
+        "postCode": "3302", 
+        "type": "registered"
+      }
+    ], 
+    "alternateNames": [], 
+    "entityType": "registeredEntity", 
+    "identifiers": [
+      {
+        "id": null, 
+        "scheme": "ARM-TAXID"
+      }
+    ], 
+    "isComponent": false, 
+    "name": "«ՉԱԱՐԱՏ ԿԱՊԱՆ»", 
+    "publicationDetails": {
+      "bodsVersion": "0.2", 
+      "publicationDate": "2021-02-19", 
+      "publisher": {
+        "name": "---"
+      }
+    }, 
+    "statementDate": "2021-02-19", 
+    "statementID": "7a8b9864-fb1e-4b87-a422-c364adc0a092", 
+    "statementType": "entityStatement"
+  }, 
+  {
+    "addresses": [
+      {
+        "address": "Լոնդոն, Լոնդոն, Լոնդոն, Օբրի Ռոուդ, 4", 
+        "country": "GB", 
+        "postCode": "W87JJ", 
+        "type": "registered"
+      }
+    ], 
+    "hasPepStatus": false, 
+    "isComponent": false, 
+    "names": [
+      {
+        "familyName": "Anderson", 
+        "fullName": "Martin Anderson", 
+        "givenName": "Martin Anderson", 
+        "patronymicName": "", 
+        "type": "transliteration"
+      },
+      {
+        "familyName": "Անդերսոն", 
+        "fullName": "Մարտին Անդերսոն", 
+        "givenName": "Մարտին", 
+        "patronymicName": "", 
+        "type": "individual"
+      }
+    ], 
+    "nationalities": [
+      {
+        "code": "GB"
+      }
+    ], 
+    "personType": "knownPerson", 
+    "publicationDetails": {
+      "bodsVersion": "0.2", 
+      "publicationDate": "2021-02-19", 
+      "publisher": {
+        "name": "---"
+      }
+    }, 
+    "statementDate": "2021-02-19", 
+    "statementID": "1547cd00-4eac-40f7-8592-bc5e244658be", 
+    "statementType": "personStatement"
+  }, 
+  {
+    "addresses": [
+      {
+        "address": "ԵՐԵՎԱՆ, ԵՐԵՎԱՆ, ԱՋԱՓՆՅԱԿ, 16 թաղամաս, 34, 78", 
+        "country": "AM", 
+        "postCode": "0065", 
+        "type": "registered"
+      }
+    ], 
+    "hasPepStatus": false, 
+    "isComponent": false, 
+    "names": [
+      {
+        "familyName": "Թովմասյան", 
+        "fullName": "Դավիթ Թովմասյան", 
+        "givenName": "Դավիթ", 
+        "patronymicName": "", 
+        "type": "individual"
+      }, 
+      {
+        "familyName": "Tovmasyan", 
+        "fullName": "Davit Tovmasyan", 
+        "givenName": "Davit Tovmasyan", 
+        "patronymicName": "", 
+        "type": "transliteration"
+      }
+    ], 
+    "nationalities": [
+      {
+        "code": "AM"
+      }
+    ], 
+    "personType": "knownPerson", 
+    "publicationDetails": {
+      "bodsVersion": "0.2", 
+      "publicationDate": "2021-02-19", 
+      "publisher": {
+        "name": "---"
+      }
+    }, 
+    "statementDate": "2021-02-19", 
+    "statementID": "d64e4041-8dbf-4db2-b6e8-0a3d08d9fdf8", 
+    "statementType": "personStatement"
+  }, 
+  {
+    "addresses": [
+      {
+        "address": "Լոնդոն, Լոնդոն, Լոնդոն, Բոֆորթ, 139", 
+        "country": "GB", 
+        "postCode": "SW36BS", 
+        "type": "registered"
+      }
+    ], 
+    "hasPepStatus": false, 
+    "isComponent": false, 
+    "names": [
+      {
+        "familyName": "Eger", 
+        "fullName": "Cristopher Eger", 
+        "givenName": "Cristopher Eger", 
+        "patronymicName": "", 
+        "type": "individual"
+      },
+      {
+        "familyName": "էգեր", 
+        "fullName": "Քրիստոֆեր էգեր", 
+        "givenName": "Քրիստոֆեր", 
+        "patronymicName": "", 
+        "type": "transliteration"
+      } 
+    ], 
+    "nationalities": [
+      {
+        "code": "GB"
+      }
+    ], 
+    "personType": "knownPerson", 
+    "publicationDetails": {
+      "bodsVersion": "0.2", 
+      "publicationDate": "2021-02-19", 
+      "publisher": {
+        "name": "---"
+      }
+    }, 
+    "statementDate": "2021-02-19", 
+    "statementID": "0011f5e3-f373-41b0-bbef-ff9f7925104c", 
+    "statementType": "personStatement"
+  }, 
+  {
+    "addresses": [
+      {
+        "address": "Նորֆոլք, Փորինգլանդ, Նորֆոլք, Բլաքթորն Վեյ , 21", 
+        "country": "GB", 
+        "postCode": "NR14 7WD", 
+        "type": "registered"
+      }
+    ], 
+    "hasPepStatus": false, 
+    "isComponent": false, 
+    "names": [ 
+      {
+        "familyName": "Cooper", 
+        "fullName": "Darin Cooper", 
+        "givenName": "Darin Cooper", 
+        "patronymicName": "", 
+        "type": "transliteration"
+      },
+      {
+        "familyName": "Քուփեր", 
+        "fullName": "Դարին Քուփեր", 
+        "givenName": "Դարին", 
+        "patronymicName": "", 
+        "type": "individual"
+      }
+    ], 
+    "nationalities": [
+      {
+        "code": "GB"
+      }
+    ], 
+    "personType": "knownPerson", 
+    "publicationDetails": {
+      "bodsVersion": "0.2", 
+      "publicationDate": "2021-02-19", 
+      "publisher": {
+        "name": "---"
+      }
+    }, 
+    "statementDate": "2021-02-19", 
+    "statementID": "f47928d4-5707-4095-a2a9-9814a43e8385", 
+    "statementType": "personStatement"
+  }, 
+  {
+    "interestedParty": {
+      "describedByPersonStatement": "0011f5e3-f373-41b0-bbef-ff9f7925104c"
+    }, 
+    "interests": [
+      {
+        "beneficialOwnershipOrControl": true, 
+        "interestLevel": "direct", 
+        "share": {
+          "exact": 0
+        }, 
+        "startDate": "2021-02-19", 
+        "type": "shareholding"
+      }
+    ], 
+    "isComponent": false, 
+    "publicationDetails": {
+      "bodsVersion": "0.2", 
+      "publicationDate": "2021-02-19", 
+      "publisher": {
+        "name": "---"
+      }
+    }, 
+    "statementDate": "2021-02-19", 
+    "statementID": "3d56d156-59ea-45e1-96ed-edcf3c6111d3", 
+    "statementType": "ownershipOrControlStatement", 
+    "subject": {
+      "describedByEntityStatement": "7a8b9864-fb1e-4b87-a422-c364adc0a092"
+    }
+  }, 
+  {
+    "interestedParty": {
+      "describedByPersonStatement": "1547cd00-4eac-40f7-8592-bc5e244658be"
+    }, 
+    "interests": [
+      {
+        "beneficialOwnershipOrControl": true, 
+        "interestLevel": "direct", 
+        "share": {
+          "exact": 0
+        }, 
+        "startDate": "2021-02-19", 
+        "type": "shareholding"
+      }
+    ], 
+    "isComponent": false, 
+    "publicationDetails": {
+      "bodsVersion": "0.2", 
+      "publicationDate": "2021-02-19", 
+      "publisher": {
+        "name": "---"
+      }
+    }, 
+    "statementDate": "2021-02-19", 
+    "statementID": "9f3e4257-21f8-44af-908a-9eb1a9c7cc77", 
+    "statementType": "ownershipOrControlStatement", 
+    "subject": {
+      "describedByEntityStatement": "aa64f99b-ad44-4d52-bb94-22a3177885e6"
+    }
+  }, 
+  {
+    "interestedParty": {
+      "describedByEntityStatement": "7a8b9864-fb1e-4b87-a422-c364adc0a092"
+    }, 
+    "interests": [
+      {
+        "beneficialOwnershipOrControl": true, 
+        "interestLevel": "direct", 
+        "share": {
+          "exact": 0
+        }, 
+        "startDate": "2021-02-19", 
+        "type": "shareholding"
+      }
+    ], 
+    "isComponent": false, 
+    "publicationDetails": {
+      "bodsVersion": "0.2", 
+      "publicationDate": "2021-02-19", 
+      "publisher": {
+        "name": "---"
+      }
+    }, 
+    "statementDate": "2021-02-19", 
+    "statementID": "01cd4091-c7ad-4b7a-9e43-525f36e627f7", 
+    "statementType": "ownershipOrControlStatement", 
+    "subject": {
+      "describedByEntityStatement": "aa64f99b-ad44-4d52-bb94-22a3177885e6"
+    }
+  }, 
+  {
+    "interestedParty": {
+      "describedByEntityStatement": "7a8b9864-fb1e-4b87-a422-c364adc0a092"
+    }, 
+    "interests": [
+      {
+        "beneficialOwnershipOrControl": true, 
+        "interestLevel": "direct", 
+        "share": {
+          "exact": 0
+        }, 
+        "startDate": "2021-02-19", 
+        "type": "shareholding"
+      }
+    ], 
+    "isComponent": false, 
+    "publicationDetails": {
+      "bodsVersion": "0.2", 
+      "publicationDate": "2021-02-19", 
+      "publisher": {
+        "name": "---"
+      }
+    }, 
+    "statementDate": "2021-02-19", 
+    "statementID": "45ae0064-9106-48dd-8884-e91b3cc636d1", 
+    "statementType": "ownershipOrControlStatement", 
+    "subject": {
+      "describedByEntityStatement": "a5ffe650-e185-4f66-9e6b-730827a349b2"
+    }
+  }, 
+  {
+    "interestedParty": {
+      "describedByEntityStatement": "fb8146f2-b11c-43f1-9c84-4656165197e3"
+    }, 
+    "interests": [
+      {
+        "beneficialOwnershipOrControl": true, 
+        "interestLevel": "direct", 
+        "share": {
+          "exact": 0
+        }, 
+        "startDate": "2021-02-19", 
+        "type": "shareholding"
+      }
+    ], 
+    "isComponent": false, 
+    "publicationDetails": {
+      "bodsVersion": "0.2", 
+      "publicationDate": "2021-02-19", 
+      "publisher": {
+        "name": "---"
+      }
+    }, 
+    "statementDate": "2021-02-19", 
+    "statementID": "a994c4ce-e635-4c18-87ea-ce1ff7944d91", 
+    "statementType": "ownershipOrControlStatement", 
+    "subject": {
+      "describedByEntityStatement": "aa64f99b-ad44-4d52-bb94-22a3177885e6"
+    }
+  }, 
+  {
+    "interestedParty": {
+      "describedByPersonStatement": "d64e4041-8dbf-4db2-b6e8-0a3d08d9fdf8"
+    }, 
+    "interests": [
+      {
+        "beneficialOwnershipOrControl": true, 
+        "interestLevel": "direct", 
+        "share": {
+          "exact": 0
+        }, 
+        "startDate": "2021-02-19", 
+        "type": "shareholding"
+      }
+    ], 
+    "isComponent": false, 
+    "publicationDetails": {
+      "bodsVersion": "0.2", 
+      "publicationDate": "2021-02-19", 
+      "publisher": {
+        "name": "---"
+      }
+    }, 
+    "statementDate": "2021-02-19", 
+    "statementID": "f36b4681-ed90-4bfd-a030-305fc3c0448c", 
+    "statementType": "ownershipOrControlStatement", 
+    "subject": {
+      "describedByEntityStatement": "7a8b9864-fb1e-4b87-a422-c364adc0a092"
+    }
+  }, 
+  {
+    "interestedParty": {
+      "describedByPersonStatement": "f47928d4-5707-4095-a2a9-9814a43e8385"
+    }, 
+    "interests": [
+      {
+        "beneficialOwnershipOrControl": true, 
+        "interestLevel": "direct", 
+        "share": {
+          "exact": 0
+        }, 
+        "startDate": "2021-02-19", 
+        "type": "shareholding"
+      }
+    ], 
+    "isComponent": false, 
+    "publicationDetails": {
+      "bodsVersion": "0.2", 
+      "publicationDate": "2021-02-19", 
+      "publisher": {
+        "name": "---"
+      }
+    }, 
+    "statementDate": "2021-02-19", 
+    "statementID": "c822bec4-e0fd-4844-a6f6-2a7ba85dc5fd", 
+    "statementType": "ownershipOrControlStatement", 
+    "subject": {
+      "describedByEntityStatement": "7a8b9864-fb1e-4b87-a422-c364adc0a092"
+    }
+  }, 
+  {
+    "interestedParty": {
+      "describedByEntityStatement": "a5ffe650-e185-4f66-9e6b-730827a349b2"
+    }, 
+    "interests": [
+      {
+        "beneficialOwnershipOrControl": true, 
+        "interestLevel": "direct", 
+        "share": {
+          "exact": 0
+        }, 
+        "startDate": "2021-02-19", 
+        "type": "shareholding"
+      }
+    ], 
+    "isComponent": false, 
+    "publicationDetails": {
+      "bodsVersion": "0.2", 
+      "publicationDate": "2021-02-19", 
+      "publisher": {
+        "name": "---"
+      }
+    }, 
+    "statementDate": "2021-02-19", 
+    "statementID": "d90e2100-1854-4f20-a2c9-38d89385d689", 
+    "statementType": "ownershipOrControlStatement", 
+    "subject": {
+      "describedByEntityStatement": "fb8146f2-b11c-43f1-9c84-4656165197e3"
+    }
+  }
+]
+
