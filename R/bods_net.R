@@ -27,7 +27,21 @@ e.cols <- ifelse(bind_rows(ocs$interests)$beneficialOwnershipOrControl,"black","
 V(g1)$name <- str_replace_all(V(g1)$name,"-","-\n")
 
 
-pdf(file = "plots/Chaarat-Kapan-2021-02-19.pdf",width = 15,height = 15)
+pdf(file = "plots/Chaarat-Kapan-2021-02-19.pdf",width = 15,height = 18)
+
+layout(matrix(1:2,nrow = 2),height = c(0.2,1))
+
+plot.new()
+legend("center",
+	pch = c(21,21,NA,NA),
+	lty = c(NA,NA,1,1),
+	legend = c("Person", "Entity","Beneficial ownership","Other ownership"),
+	pt.bg = c("steelblue3","grey",NA,NA),
+	col = c("black","black","black","red"),
+	cex = 3,
+	bty = "n",
+	ncol = 2
+	)
 
 plot(g1,
 	vertex.color = v.cols,
@@ -35,14 +49,6 @@ plot(g1,
 	vertex.label.color = 'black',
 	edge.color = e.cols)
 
-legend("topleft",
-	pch = c(21,21,NA,NA),
-	lty = c(NA,NA,1,1),
-	legend = c("Person", "Entity","Beneficial ownership","Other ownership"),
-	pt.bg = c("steelblue3","grey",NA,NA),
-	col = c("black","black","black","red"),
-	cex = 2
-	)
 
 dev.off()
 
