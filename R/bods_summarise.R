@@ -38,7 +38,7 @@ message("\n3. Summary of identifiers in entity statements\n")
 
 if(all(sapply(es$identifiers,is.null)))
 {
-	message("There are no identifiers in the person statements\n")
+	message("There are no identifiers in the entity statements\n")
 } else
 {
 	dplyr::bind_rows(es$identifiers)
