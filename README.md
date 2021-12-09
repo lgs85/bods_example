@@ -18,5 +18,5 @@ python3 python/bods_summarise.py data/Chaarat-Kapan-2021-02-19.json
 3. Make a network diagram showing the beneficial ownership structures
 
 ```
-Rscript R/bods_net.R data/Chaarat-Kapan-2021-02-19.json
+Rscript R/bods_net.R data/Chaarat-Kapan-2021-02-19.json plots/Chaarat-Kapan-2021-02-19.pdf
 ``` 
