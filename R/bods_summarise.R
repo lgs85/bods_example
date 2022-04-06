@@ -1,5 +1,5 @@
+# args <- "data/dm_v1.json"
 args = commandArgs(trailingOnly=TRUE)
-
 
 
 # Read in file
@@ -19,8 +19,17 @@ ownerType <- ifelse(is.na(ocs$interestedParty$describedByPersonStatement),
 
 beneficialOwnershipOrControl <- dplyr::bind_rows(ocs$interests)$beneficialOwnershipOrControl
 
-message("\n1. Summary of beneficialOwnershipOrControl by type of interested party\n")
-table(ownerType,beneficialOwnershipOrControl)
+message("\n1. Summary of beneficial ownership or control statements\n")
+
+
+if(is.null(beneficialOwnershipOrControl))
+{
+message("There are no ownership or control statement")
+	} else
+	{
+		tibble::as_tibble(table(ownerType,beneficialOwnershipOrControl))
+
+	}
 
 
 # Identifiers
@@ -32,7 +41,7 @@ if(all(sapply(ps$identifiers,is.null)))
 	message("There are no identifiers in the person statements\n")
 }else
 {
-	dplyr::bind_rows(ps$identifiers)
+	tibble::as_tibble(dplyr::bind_rows(ps$identifiers))
 }
 
 
@@ -43,5 +52,5 @@ if(all(sapply(es$identifiers,is.null)))
 	message("There are no identifiers in the entity statements\n")
 } else
 {
-	dplyr::bind_rows(es$identifiers)
+	tibble::as_tibble(dplyr::bind_rows(es$identifiers))
 }
