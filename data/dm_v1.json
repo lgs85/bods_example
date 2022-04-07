@@ -1,0 +1,949 @@
+[
+  {
+    "statementID": "openownership-register-12227477366714180168",
+    "statementType": "entityStatement",
+    "entityType": "registeredEntity",
+    "name": "DAILY MAIL AND GENERAL TRUST P L C",
+    "incorporatedInJurisdiction": {
+      "name": "United Kingdom of Great Britain and Northern Ireland",
+      "code": "GB"
+    },
+    "identifiers": [
+      {
+        "scheme": "GB-COH",
+        "schemeName": "Companies House",
+        "id": "00184594"
+      },
+      {
+        "schemeName": "GB Persons Of Significant Control Register",
+        "id": "/company/01693108/persons-with-significant-control/corporate-entity/-ArLpBydR1af18WQLt1y5TLJlp8"
+      },
+      {
+        "schemeName": "GB Persons Of Significant Control Register - Registration numbers",
+        "id": "00184594"
+      },
+      {
+        "schemeName": "GB Persons Of Significant Control Register",
+        "id": "/company/04521116/persons-with-significant-control/corporate-entity/L3oHGSZR2nRojLF-0rRE8PBW-Ac"
+      },
+      {
+        "schemeName": "GB Persons Of Significant Control Register",
+        "id": "/company/04071890/persons-with-significant-control/corporate-entity/tGqKi9d3DO-ChtRTFRpnQZHU8A8"
+      },
+      {
+        "schemeName": "OpenCorporates",
+        "id": "https://opencorporates.com/companies/gb/00184594",
+        "uri": "https://opencorporates.com/companies/gb/00184594"
+      },
+      {
+        "schemeName": "GB Persons Of Significant Control Register - Registration numbers",
+        "id": "184594"
+      },
+      {
+        "schemeName": "GB Persons Of Significant Control Register",
+        "id": "/company/03394910/persons-with-significant-control/corporate-entity/ZUC0n5budM8M55KgiJbJ7P0FkMg"
+      },
+      {
+        "schemeName": "OpenOwnership Register",
+        "id": "https://register.openownership.org/entities/59b9a44b67e4ebf34030fe34",
+        "uri": "https://register.openownership.org/entities/59b9a44b67e4ebf34030fe34"
+      }
+    ],
+    "foundingDate": "1922-09-27",
+    "addresses": [
+      {
+        "type": "registered",
+        "address": "Northcliffe House, 2 Derry Street, Kensington, London, W8 5TT",
+        "country": "GB"
+      }
+    ]
+  },
+  {
+    "statementID": "openownership-register-8380793022304588837",
+    "statementType": "personStatement",
+    "personType": "knownPerson",
+    "names": [
+      {
+        "type": "individual",
+        "fullName": "Claudia Caroline Viscountess Rothermere"
+      }
+    ],
+    "identifiers": [
+      {
+        "schemeName": "GB Persons Of Significant Control Register",
+        "id": "/company/00184594/persons-with-significant-control/individual/2YYT6lEuElSl3w9twtJoT6YA_Wo"
+      },
+      {
+        "schemeName": "OpenOwnership Register",
+        "id": "https://register.openownership.org/entities/5ab944129dfc3fae18632c80",
+        "uri": "https://register.openownership.org/entities/5ab944129dfc3fae18632c80"
+      }
+    ],
+    "nationalities": [
+      {
+        "name": "United Kingdom of Great Britain and Northern Ireland",
+        "code": "GB"
+      }
+    ],
+    "birthDate": "1967-05-01",
+    "addresses": [
+      {
+        "address": "31, Hill Street, London, W1J 5LS",
+        "country": "GB"
+      }
+    ]
+  },
+  {
+    "statementID": "openownership-register-12892356491196747560",
+    "statementType": "ownershipOrControlStatement",
+    "statementDate": "2016-04-06",
+    "subject": {
+      "describedByEntityStatement": "openownership-register-12227477366714180168"
+    },
+    "interestedParty": {
+      "describedByPersonStatement": "openownership-register-8380793022304588837"
+    },
+    "interests": [
+      {
+        "type": "voting-rights",
+        "details": "voting-rights-75-to-100-percent",
+        "share": {
+          "minimum": 75,
+          "maximum": 100,
+          "exclusiveMinimum": false,
+          "exclusiveMaximum": false
+        },
+        "startDate": "2016-04-06",
+        "endDate": "2016-05-11"
+      }
+    ],
+    "source": {
+      "type": [
+        "officialRegister"
+      ],
+      "description": "GB Persons Of Significant Control Register",
+      "url": "http://download.companieshouse.gov.uk/en_pscdata.html",
+      "retrievedAt": "2019-07-08T10:37:11Z"
+    }
+  },
+  {
+    "statementID": "openownership-register-10434715724377063479",
+    "statementType": "entityStatement",
+    "entityType": "registeredEntity",
+    "name": "DAILY MAIL AND GENERAL HOLDINGS LIMITED",
+    "incorporatedInJurisdiction": {
+      "name": "United Kingdom of Great Britain and Northern Ireland",
+      "code": "GB"
+    },
+    "identifiers": [
+      {
+        "schemeName": "GB Persons Of Significant Control Register",
+        "id": "/company/03101814/persons-with-significant-control/corporate-entity/aqY2ZLqdCO-0sd6NcLPZQsa8nkM"
+      },
+      {
+        "schemeName": "GB Persons Of Significant Control Register - Registration numbers",
+        "id": "01693108"
+      },
+      {
+        "schemeName": "GB Persons Of Significant Control Register",
+        "id": "/company/02251116/persons-with-significant-control/corporate-entity/7F1Spg4GBnoiqsYvmPI7dtl4Ffo"
+      },
+      {
+        "schemeName": "GB Persons Of Significant Control Register",
+        "id": "/company/01150306/persons-with-significant-control/corporate-entity/Ys9oERVfNfrTR6HCInMoyrO07T8"
+      },
+      {
+        "schemeName": "GB Persons Of Significant Control Register",
+        "id": "/company/01966438/persons-with-significant-control/corporate-entity/yvB_9EjqbUc5VOAGfiC2LGT9p_8"
+      },
+      {
+        "schemeName": "GB Persons Of Significant Control Register",
+        "id": "/company/04666668/persons-with-significant-control/corporate-entity/Zw7fahhf7eAC-jZNGg0zXn0-NbI"
+      },
+      {
+        "schemeName": "GB Persons Of Significant Control Register",
+        "id": "/company/05063368/persons-with-significant-control/corporate-entity/-wcCV8REothiIKw58xDvs_Q9_Bs"
+      },
+      {
+        "scheme": "GB-COH",
+        "schemeName": "Companies House",
+        "id": "01693108"
+      },
+      {
+        "schemeName": "GB Persons Of Significant Control Register",
+        "id": "/company/05765286/persons-with-significant-control/corporate-entity/u0neiBwOSpsygZ2EbMXC4yT3qQg"
+      },
+      {
+        "schemeName": "GB Persons Of Significant Control Register",
+        "id": "/company/05830195/persons-with-significant-control/corporate-entity/00PudK5GZkVq3P4Q5bkKo8bS6OM"
+      },
+      {
+        "schemeName": "GB Persons Of Significant Control Register",
+        "id": "/company/02823743/persons-with-significant-control/corporate-entity/QtgiyTJq0G7-qhVSGhoCTmySSeI"
+      },
+      {
+        "schemeName": "GB Persons Of Significant Control Register",
+        "id": "/company/03394992/persons-with-significant-control/corporate-entity/JANysO1uo4Hpyk72LuY_L-FrQzc"
+      },
+      {
+        "schemeName": "GB Persons Of Significant Control Register",
+        "id": "/company/04219212/persons-with-significant-control/corporate-entity/OI6ktEVu1B_shs56gcXZ8qa6nHY"
+      },
+      {
+        "schemeName": "GB Persons Of Significant Control Register",
+        "id": "/company/05528329/persons-with-significant-control/corporate-entity/guP6qIEbx1zQd817FLpUaWoaZPg"
+      },
+      {
+        "schemeName": "OpenCorporates",
+        "id": "https://opencorporates.com/companies/gb/01693108",
+        "uri": "https://opencorporates.com/companies/gb/01693108"
+      },
+      {
+        "schemeName": "GB Persons Of Significant Control Register - Registration numbers",
+        "id": "1693108"
+      },
+      {
+        "schemeName": "GB Persons Of Significant Control Register",
+        "id": "/company/12867899/persons-with-significant-control/corporate-entity/x_426f5QbfJIBMM7Bt4vGwdRH5Q"
+      },
+      {
+        "schemeName": "OpenOwnership Register",
+        "id": "https://register.openownership.org/entities/59b940b367e4ebf3407c925c",
+        "uri": "https://register.openownership.org/entities/59b940b367e4ebf3407c925c"
+      }
+    ],
+    "foundingDate": "1983-01-20",
+    "addresses": [
+      {
+        "type": "registered",
+        "address": "Northcliffe House, 2 Derry Street, Kensington London, W8 5TT",
+        "country": "GB"
+      }
+    ]
+  },
+  {
+    "statementID": "openownership-register-17250682324118770134",
+    "statementType": "ownershipOrControlStatement",
+    "statementDate": "2016-04-06",
+    "subject": {
+      "describedByEntityStatement": "openownership-register-10434715724377063479"
+    },
+    "interestedParty": {
+      "describedByEntityStatement": "openownership-register-12227477366714180168"
+    },
+    "interests": [
+      {
+        "type": "shareholding",
+        "details": "ownership-of-shares-75-to-100-percent",
+        "share": {
+          "minimum": 75,
+          "maximum": 100,
+          "exclusiveMinimum": false,
+          "exclusiveMaximum": false
+        },
+        "startDate": "2016-04-06"
+      },
+      {
+        "type": "voting-rights",
+        "details": "voting-rights-75-to-100-percent",
+        "share": {
+          "minimum": 75,
+          "maximum": 100,
+          "exclusiveMinimum": false,
+          "exclusiveMaximum": false
+        },
+        "startDate": "2016-04-06"
+      },
+      {
+        "type": "appointment-of-board",
+        "details": "right-to-appoint-and-remove-directors",
+        "startDate": "2016-04-06"
+      }
+    ],
+    "source": {
+      "type": [
+        "officialRegister"
+      ],
+      "description": "GB Persons Of Significant Control Register",
+      "url": "http://download.companieshouse.gov.uk/en_pscdata.html",
+      "retrievedAt": "2019-07-08T10:37:11Z"
+    }
+  },
+  {
+    "statementID": "openownership-register-14012902167081051309",
+    "statementType": "entityStatement",
+    "entityType": "registeredEntity",
+    "name": "DMG MEDIA LIMITED",
+    "incorporatedInJurisdiction": {
+      "name": "United Kingdom of Great Britain and Northern Ireland",
+      "code": "GB"
+    },
+    "identifiers": [
+      {
+        "schemeName": "GB Persons Of Significant Control Register",
+        "id": "/company/03403993/persons-with-significant-control/corporate-entity/J5dC_pG-Zsrbx5xue5nwU7NZpNY"
+      },
+      {
+        "schemeName": "GB Persons Of Significant Control Register - Registration numbers",
+        "id": "05765286"
+      },
+      {
+        "schemeName": "GB Persons Of Significant Control Register",
+        "id": "/company/04071890/persons-with-significant-control/corporate-entity/RpGKHkgiCqwUOFZNzRVwWke5vag"
+      },
+      {
+        "schemeName": "GB Persons Of Significant Control Register",
+        "id": "/company/04282263/persons-with-significant-control/corporate-entity/pTzOWglBz3kLPw6xSUJ-kvjo94U"
+      },
+      {
+        "schemeName": "GB Persons Of Significant Control Register",
+        "id": "/company/02208579/persons-with-significant-control/corporate-entity/AePLdMArT9FM0VTTm7NVZNn0rpM"
+      },
+      {
+        "schemeName": "GB Persons Of Significant Control Register",
+        "id": "/company/07111468/persons-with-significant-control/corporate-entity/MMVqZNH-qaWO7bYdkwsHYT92WNc"
+      },
+      {
+        "schemeName": "GB Persons Of Significant Control Register",
+        "id": "/company/00084121/persons-with-significant-control/corporate-entity/PeCpFOy2x487-Z5bC7cKD-DNDL0"
+      },
+      {
+        "schemeName": "GB Persons Of Significant Control Register",
+        "id": "/company/03709742/persons-with-significant-control/corporate-entity/JyZxp-5AqbuOkb8cdhizrIAN6mY"
+      },
+      {
+        "scheme": "GB-COH",
+        "schemeName": "Companies House",
+        "id": "05765286"
+      },
+      {
+        "schemeName": "OpenCorporates",
+        "id": "https://opencorporates.com/companies/gb/05765286",
+        "uri": "https://opencorporates.com/companies/gb/05765286"
+      },
+      {
+        "schemeName": "GB Persons Of Significant Control Register - Registration numbers",
+        "id": "5765286"
+      },
+      {
+        "schemeName": "GB Persons Of Significant Control Register",
+        "id": "/company/12867899/persons-with-significant-control/corporate-entity/U0TaeiUMhl7uIjfI5g8L8ts4G5I"
+      },
+      {
+        "schemeName": "GB Persons Of Significant Control Register",
+        "id": "/company/11573312/persons-with-significant-control/corporate-entity/oYFbVRZwlqhBg8T-rw6ep2SAJa0"
+      },
+      {
+        "schemeName": "GB Persons Of Significant Control Register",
+        "id": "/company/09840223/persons-with-significant-control/corporate-entity/GPoSDaXJ52rhwosjHG8zRGARV_4"
+      },
+      {
+        "schemeName": "OpenOwnership Register",
+        "id": "https://register.openownership.org/entities/59b93ed367e4ebf3407408e9",
+        "uri": "https://register.openownership.org/entities/59b93ed367e4ebf3407408e9"
+      }
+    ],
+    "foundingDate": "2006-04-03",
+    "addresses": [
+      {
+        "type": "registered",
+        "address": "Northcliffe House, 2 Derry Street, London, W8 5TT",
+        "country": "GB"
+      }
+    ]
+  },
+  {
+    "statementID": "openownership-register-1649628570270637341",
+    "statementType": "ownershipOrControlStatement",
+    "statementDate": "2016-04-06",
+    "subject": {
+      "describedByEntityStatement": "openownership-register-14012902167081051309"
+    },
+    "interestedParty": {
+      "describedByEntityStatement": "openownership-register-10434715724377063479"
+    },
+    "interests": [
+      {
+        "type": "shareholding",
+        "details": "ownership-of-shares-75-to-100-percent",
+        "share": {
+          "minimum": 75,
+          "maximum": 100,
+          "exclusiveMinimum": false,
+          "exclusiveMaximum": false
+        },
+        "startDate": "2016-04-06"
+      },
+      {
+        "type": "voting-rights",
+        "details": "voting-rights-75-to-100-percent",
+        "share": {
+          "minimum": 75,
+          "maximum": 100,
+          "exclusiveMinimum": false,
+          "exclusiveMaximum": false
+        },
+        "startDate": "2016-04-06"
+      },
+      {
+        "type": "appointment-of-board",
+        "details": "right-to-appoint-and-remove-directors",
+        "startDate": "2016-04-06"
+      }
+    ],
+    "source": {
+      "type": [
+        "officialRegister"
+      ],
+      "description": "GB Persons Of Significant Control Register",
+      "url": "http://download.companieshouse.gov.uk/en_pscdata.html",
+      "retrievedAt": "2019-07-08T10:37:11Z"
+    }
+  },
+  {
+    "statementID": "openownership-register-12664814530646039536",
+    "statementType": "entityStatement",
+    "entityType": "registeredEntity",
+    "name": "ASSOCIATED NEWSPAPERS LIMITED",
+    "incorporatedInJurisdiction": {
+      "name": "United Kingdom of Great Britain and Northern Ireland",
+      "code": "GB"
+    },
+    "identifiers": [
+      {
+        "schemeName": "GB Persons Of Significant Control Register",
+        "id": "/company/09761390/persons-with-significant-control/corporate-entity/Uj56n71y_bYc0pbltXPNdma90f4"
+      },
+      {
+        "schemeName": "GB Persons Of Significant Control Register - Registration numbers",
+        "id": "00084121"
+      },
+      {
+        "schemeName": "GB Persons Of Significant Control Register",
+        "id": "/company/01160545/persons-with-significant-control/corporate-entity/uQ626D5o0EvuQoHF9ZQtBazY17c"
+      },
+      {
+        "schemeName": "GB Persons Of Significant Control Register",
+        "id": "/company/01063950/persons-with-significant-control/corporate-entity/MzaAUsX3C4GnkdgC7ILnNoa9Ims"
+      },
+      {
+        "scheme": "GB-COH",
+        "schemeName": "Companies House",
+        "id": "00084121"
+      },
+      {
+        "schemeName": "GB Persons Of Significant Control Register",
+        "id": "/company/01160542/persons-with-significant-control/corporate-entity/wleXJEwg_VoU7Zzv90GY-hZ8C68"
+      },
+      {
+        "schemeName": "GB Persons Of Significant Control Register",
+        "id": "/company/03961514/persons-with-significant-control/corporate-entity/UCGl_HpgcEDb_u80W2CC_ELexsQ"
+      },
+      {
+        "schemeName": "GB Persons Of Significant Control Register",
+        "id": "/company/04042170/persons-with-significant-control/corporate-entity/mdX_A_aRJsuqv3fFPXDHeqtFQtQ"
+      },
+      {
+        "schemeName": "OpenCorporates",
+        "id": "https://opencorporates.com/companies/gb/00084121",
+        "uri": "https://opencorporates.com/companies/gb/00084121"
+      },
+      {
+        "schemeName": "GB Persons Of Significant Control Register - Registration numbers",
+        "id": "84121"
+      },
+      {
+        "schemeName": "GB Persons Of Significant Control Register",
+        "id": "/company/06769200/persons-with-significant-control/corporate-entity/v9LxJ8O8-gPw4PbsdngCO3AdqD4"
+      },
+      {
+        "schemeName": "GB Persons Of Significant Control Register",
+        "id": "/company/07547312/persons-with-significant-control/corporate-entity/7zsKNOnwHMOvWJpuIcpb1Su-6ZQ"
+      },
+      {
+        "schemeName": "OpenOwnership Register",
+        "id": "https://register.openownership.org/entities/59b9472b67e4ebf3409825c2",
+        "uri": "https://register.openownership.org/entities/59b9472b67e4ebf3409825c2"
+      }
+    ],
+    "foundingDate": "1905-04-01",
+    "addresses": [
+      {
+        "type": "registered",
+        "address": "Northcliffe House, 2 Derry Street, London, W8 5TT",
+        "country": "GB"
+      }
+    ]
+  },
+  {
+    "statementID": "openownership-register-4545515449694587760",
+    "statementType": "ownershipOrControlStatement",
+    "statementDate": "2016-04-06",
+    "subject": {
+      "describedByEntityStatement": "openownership-register-12664814530646039536"
+    },
+    "interestedParty": {
+      "describedByEntityStatement": "openownership-register-14012902167081051309"
+    },
+    "interests": [
+      {
+        "type": "shareholding",
+        "details": "ownership-of-shares-75-to-100-percent",
+        "share": {
+          "minimum": 75,
+          "maximum": 100,
+          "exclusiveMinimum": false,
+          "exclusiveMaximum": false
+        },
+        "startDate": "2016-04-06"
+      },
+      {
+        "type": "voting-rights",
+        "details": "voting-rights-75-to-100-percent",
+        "share": {
+          "minimum": 75,
+          "maximum": 100,
+          "exclusiveMinimum": false,
+          "exclusiveMaximum": false
+        },
+        "startDate": "2016-04-06"
+      },
+      {
+        "type": "appointment-of-board",
+        "details": "right-to-appoint-and-remove-directors",
+        "startDate": "2016-04-06"
+      }
+    ],
+    "source": {
+      "type": [
+        "officialRegister"
+      ],
+      "description": "GB Persons Of Significant Control Register",
+      "url": "http://download.companieshouse.gov.uk/en_pscdata.html",
+      "retrievedAt": "2019-07-08T10:37:11Z"
+    }
+  },
+  {
+    "statementID": "openownership-register-17778752793674961964",
+    "statementType": "entityStatement",
+    "entityType": "registeredEntity",
+    "name": "DAILY MAIL LIMITED",
+    "incorporatedInJurisdiction": {
+      "name": "United Kingdom of Great Britain and Northern Ireland",
+      "code": "GB"
+    },
+    "identifiers": [
+      {
+        "scheme": "GB-COH",
+        "schemeName": "Companies House",
+        "id": "01160542"
+      },
+      {
+        "schemeName": "OpenCorporates",
+        "id": "https://opencorporates.com/companies/gb/01160542",
+        "uri": "https://opencorporates.com/companies/gb/01160542"
+      },
+      {
+        "schemeName": "OpenOwnership Register",
+        "id": "https://register.openownership.org/entities/59b98cf767e4ebf340dd6d95",
+        "uri": "https://register.openownership.org/entities/59b98cf767e4ebf340dd6d95"
+      }
+    ],
+    "foundingDate": "1974-02-18",
+    "addresses": [
+      {
+        "type": "registered",
+        "address": "Northcliffe House, 2 Derry Street, Kensington, London, W8 5TS",
+        "country": "GB"
+      }
+    ]
+  },
+  {
+    "statementID": "openownership-register-8263874754080668144",
+    "statementType": "ownershipOrControlStatement",
+    "statementDate": "2016-04-06",
+    "subject": {
+      "describedByEntityStatement": "openownership-register-17778752793674961964"
+    },
+    "interestedParty": {
+      "describedByEntityStatement": "openownership-register-12664814530646039536"
+    },
+    "interests": [
+      {
+        "type": "shareholding",
+        "details": "ownership-of-shares-75-to-100-percent",
+        "share": {
+          "minimum": 75,
+          "maximum": 100,
+          "exclusiveMinimum": false,
+          "exclusiveMaximum": false
+        },
+        "startDate": "2016-04-06"
+      },
+      {
+        "type": "voting-rights",
+        "details": "voting-rights-75-to-100-percent",
+        "share": {
+          "minimum": 75,
+          "maximum": 100,
+          "exclusiveMinimum": false,
+          "exclusiveMaximum": false
+        },
+        "startDate": "2016-04-06"
+      },
+      {
+        "type": "appointment-of-board",
+        "details": "right-to-appoint-and-remove-directors",
+        "startDate": "2016-04-06"
+      }
+    ],
+    "source": {
+      "type": [
+        "officialRegister"
+      ],
+      "description": "GB Persons Of Significant Control Register",
+      "url": "http://download.companieshouse.gov.uk/en_pscdata.html",
+      "retrievedAt": "2019-07-08T10:37:11Z"
+    }
+  },
+  {
+    "statementID": "openownership-register-18401560238709917173",
+    "statementType": "personStatement",
+    "personType": "knownPerson",
+    "names": [
+      {
+        "type": "individual",
+        "fullName": "Francois Leo Morin"
+      }
+    ],
+    "identifiers": [
+      {
+        "schemeName": "GB Persons Of Significant Control Register",
+        "id": "/company/00184594/persons-with-significant-control/individual/UFa3QGarKduJLvhltH-9IF72VgY"
+      },
+      {
+        "schemeName": "OpenOwnership Register",
+        "id": "https://register.openownership.org/entities/59b9a44b67e4ebf34030fee4",
+        "uri": "https://register.openownership.org/entities/59b9a44b67e4ebf34030fee4"
+      }
+    ],
+    "nationalities": [
+      {
+        "name": "Canada",
+        "code": "CA"
+      }
+    ],
+    "birthDate": "1963-10-01",
+    "addresses": [
+      {
+        "address": "35-37, New Street, St Helier, JE2 3RA",
+        "country": "CA"
+      }
+    ]
+  },
+  {
+    "statementID": "openownership-register-7184884678327178275",
+    "statementType": "ownershipOrControlStatement",
+    "statementDate": "2016-04-06",
+    "subject": {
+      "describedByEntityStatement": "openownership-register-12227477366714180168"
+    },
+    "interestedParty": {
+      "describedByPersonStatement": "openownership-register-18401560238709917173"
+    },
+    "interests": [
+      {
+        "type": "voting-rights",
+        "details": "voting-rights-75-to-100-percent",
+        "share": {
+          "minimum": 75,
+          "maximum": 100,
+          "exclusiveMinimum": false,
+          "exclusiveMaximum": false
+        },
+        "startDate": "2016-04-06",
+        "endDate": "2022-02-24"
+      }
+    ],
+    "source": {
+      "type": [
+        "officialRegister"
+      ],
+      "description": "GB Persons Of Significant Control Register",
+      "url": "http://download.companieshouse.gov.uk/en_pscdata.html",
+      "retrievedAt": "2022-03-29T22:17:19Z"
+    }
+  },
+  {
+    "statementID": "openownership-register-13278633734931477130",
+    "statementType": "personStatement",
+    "personType": "knownPerson",
+    "names": [
+      {
+        "type": "individual",
+        "fullName": "Aine Deirdre O'Reilly"
+      }
+    ],
+    "identifiers": [
+      {
+        "schemeName": "GB Persons Of Significant Control Register",
+        "id": "/company/00184594/persons-with-significant-control/individual/ZuJZYH6WzBNp9jyQzIm1RvSzafo"
+      },
+      {
+        "schemeName": "OpenOwnership Register",
+        "id": "https://register.openownership.org/entities/59b9a44b67e4ebf34030fe64",
+        "uri": "https://register.openownership.org/entities/59b9a44b67e4ebf34030fe64"
+      }
+    ],
+    "nationalities": [
+      {
+        "name": "Ireland",
+        "code": "IE"
+      }
+    ],
+    "birthDate": "1978-06-01",
+    "addresses": [
+      {
+        "address": "35-37, New Street, St Helier, JE2 3RA",
+        "country": "JE"
+      }
+    ]
+  },
+  {
+    "statementID": "openownership-register-12557502037571812643",
+    "statementType": "ownershipOrControlStatement",
+    "statementDate": "2016-05-11",
+    "subject": {
+      "describedByEntityStatement": "openownership-register-12227477366714180168"
+    },
+    "interestedParty": {
+      "describedByPersonStatement": "openownership-register-13278633734931477130"
+    },
+    "interests": [
+      {
+        "type": "voting-rights",
+        "details": "voting-rights-75-to-100-percent",
+        "share": {
+          "minimum": 75,
+          "maximum": 100,
+          "exclusiveMinimum": false,
+          "exclusiveMaximum": false
+        },
+        "startDate": "2016-05-11",
+        "endDate": "2022-02-24"
+      }
+    ],
+    "source": {
+      "type": [
+        "officialRegister"
+      ],
+      "description": "GB Persons Of Significant Control Register",
+      "url": "http://download.companieshouse.gov.uk/en_pscdata.html",
+      "retrievedAt": "2022-03-29T22:17:19Z"
+    }
+  },
+  {
+    "statementID": "openownership-register-8043250621175291911",
+    "statementType": "personStatement",
+    "personType": "knownPerson",
+    "names": [
+      {
+        "type": "individual",
+        "fullName": "Jonathan Harold Esmond Vere 4th Viscount Rothermere"
+      }
+    ],
+    "identifiers": [
+      {
+        "schemeName": "GB Persons Of Significant Control Register",
+        "id": "/company/00184594/persons-with-significant-control/individual/ygemtar94eqKLhUZTP5lurcvaRc"
+      },
+      {
+        "schemeName": "OpenOwnership Register",
+        "id": "https://register.openownership.org/entities/59b9a44b67e4ebf34030fe40",
+        "uri": "https://register.openownership.org/entities/59b9a44b67e4ebf34030fe40"
+      }
+    ],
+    "nationalities": [
+      {
+        "name": "United Kingdom of Great Britain and Northern Ireland",
+        "code": "GB"
+      }
+    ],
+    "birthDate": "1967-12-01",
+    "addresses": [
+      {
+        "address": "Dmgt Plc, Northcliffe House, 2 Derry Street, London, W8 5TT",
+        "country": "GB"
+      }
+    ]
+  },
+  {
+    "statementID": "openownership-register-855658929541875748",
+    "statementType": "ownershipOrControlStatement",
+    "statementDate": "2016-04-06",
+    "subject": {
+      "describedByEntityStatement": "openownership-register-12227477366714180168"
+    },
+    "interestedParty": {
+      "describedByPersonStatement": "openownership-register-8043250621175291911"
+    },
+    "interests": [
+      {
+        "type": "voting-rights",
+        "details": "voting-rights-75-to-100-percent",
+        "share": {
+          "minimum": 75,
+          "maximum": 100,
+          "exclusiveMinimum": false,
+          "exclusiveMaximum": false
+        },
+        "startDate": "2016-04-06",
+        "endDate": "2022-02-24"
+      }
+    ],
+    "source": {
+      "type": [
+        "officialRegister"
+      ],
+      "description": "GB Persons Of Significant Control Register",
+      "url": "http://download.companieshouse.gov.uk/en_pscdata.html",
+      "retrievedAt": "2022-03-29T22:17:19Z"
+    }
+  },
+  {
+    "statementID": "openownership-register-6381409463544793022",
+    "statementType": "personStatement",
+    "personType": "knownPerson",
+    "names": [
+      {
+        "type": "individual",
+        "fullName": "Thomas Stuart Gillespie"
+      }
+    ],
+    "identifiers": [
+      {
+        "schemeName": "GB Persons Of Significant Control Register",
+        "id": "/company/00184594/persons-with-significant-control/individual/R1wJgxQoOCjNxu05CHHkEn3vUIc"
+      },
+      {
+        "schemeName": "OpenOwnership Register",
+        "id": "https://register.openownership.org/entities/59b9a44b67e4ebf34030fe6f",
+        "uri": "https://register.openownership.org/entities/59b9a44b67e4ebf34030fe6f"
+      }
+    ],
+    "nationalities": [
+      {
+        "name": "Canada",
+        "code": "CA"
+      }
+    ],
+    "birthDate": "1938-07-01",
+    "addresses": [
+      {
+        "address": "35-37, New Street, St Helier, JE2 3RA",
+        "country": "CA"
+      }
+    ]
+  },
+  {
+    "statementID": "openownership-register-16002804126075599878",
+    "statementType": "ownershipOrControlStatement",
+    "statementDate": "2016-04-06",
+    "subject": {
+      "describedByEntityStatement": "openownership-register-12227477366714180168"
+    },
+    "interestedParty": {
+      "describedByPersonStatement": "openownership-register-6381409463544793022"
+    },
+    "interests": [
+      {
+        "type": "voting-rights",
+        "details": "voting-rights-75-to-100-percent",
+        "share": {
+          "minimum": 75,
+          "maximum": 100,
+          "exclusiveMinimum": false,
+          "exclusiveMaximum": false
+        },
+        "startDate": "2016-04-06",
+        "endDate": "2022-02-24"
+      }
+    ],
+    "source": {
+      "type": [
+        "officialRegister"
+      ],
+      "description": "GB Persons Of Significant Control Register",
+      "url": "http://download.companieshouse.gov.uk/en_pscdata.html",
+      "retrievedAt": "2022-03-29T22:17:19Z"
+    }
+  },
+  {
+    "statementID": "openownership-register-10890773313740294066",
+    "statementType": "personStatement",
+    "personType": "knownPerson",
+    "names": [
+      {
+        "type": "individual",
+        "fullName": "Nigel Timothy Bentley"
+      }
+    ],
+    "identifiers": [
+      {
+        "schemeName": "GB Persons Of Significant Control Register",
+        "id": "/company/00184594/persons-with-significant-control/individual/si955dqRL4GLU5OdSJFHvxAKzXk"
+      },
+      {
+        "schemeName": "OpenOwnership Register",
+        "id": "https://register.openownership.org/entities/59b9a44b67e4ebf34030fe53",
+        "uri": "https://register.openownership.org/entities/59b9a44b67e4ebf34030fe53"
+      }
+    ],
+    "nationalities": [
+      {
+        "name": "United Kingdom of Great Britain and Northern Ireland",
+        "code": "GB"
+      }
+    ],
+    "birthDate": "1955-06-01",
+    "addresses": [
+      {
+        "address": "35-37, New Street, St Helier, JE2 3RA",
+        "country": "JE"
+      }
+    ]
+  },
+  {
+    "statementID": "openownership-register-5614784785149318469",
+    "statementType": "ownershipOrControlStatement",
+    "statementDate": "2016-04-06",
+    "subject": {
+      "describedByEntityStatement": "openownership-register-12227477366714180168"
+    },
+    "interestedParty": {
+      "describedByPersonStatement": "openownership-register-10890773313740294066"
+    },
+    "interests": [
+      {
+        "type": "voting-rights",
+        "details": "voting-rights-75-to-100-percent",
+        "share": {
+          "minimum": 75,
+          "maximum": 100,
+          "exclusiveMinimum": false,
+          "exclusiveMaximum": false
+        },
+        "startDate": "2016-04-06",
+        "endDate": "2022-02-24"
+      }
+    ],
+    "source": {
+      "type": [
+        "officialRegister"
+      ],
+      "description": "GB Persons Of Significant Control Register",
+      "url": "http://download.companieshouse.gov.uk/en_pscdata.html",
+      "retrievedAt": "2022-03-29T22:17:19Z"
+    }
+  }
+]

@@ -3,6 +3,7 @@ library(tidyverse)
 library(igraph)
 library(showtext)
 
+#args = "data/dm_v2.json"
 args = commandArgs(trailingOnly=TRUE)
 names_lookup <- read_csv("data/name_lookup.csv")
 
@@ -25,7 +26,7 @@ entities <- ocs$subject$describedByEntityStatement
 g1 <- graph_from_edgelist(matrix(c(owners,entities),ncol = 2,byrow = FALSE))
 
 v.cols <- ifelse(V(g1)$name %in% ps$statementID,"steelblue3","grey")
-e.cols <- ifelse(bind_rows(ocs$interests)$beneficialOwnershipOrControl,"black","red")
+#e.cols <- ifelse(bind_rows(ocs$interests)$beneficialOwnershipOrControl,"black","red")
 
 nams <- tibble(id = es$statementID,nam = es$name) %>%
   bind_rows(tibble(id = ps$statementID,
@@ -38,7 +39,7 @@ V(g1)$name <- tibble(id = V(g1)$name) %>%
   left_join(nams %>% 
               left_join(names_lookup %>% 
                           rename(nam = name))) %>%
-  pull(newname)
+  pull(nam)
 
 
 pdf(file = args[2],width = 15,height = 18)
@@ -60,8 +61,7 @@ legend("center",
 plot(g1,
      vertex.color = v.cols,
      vertex.size = 30,
-     vertex.label.color = 'black',
-     edge.color = e.cols)
+     vertex.label.color = 'black')
 
 
 dev.off()
